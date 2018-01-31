@@ -7,7 +7,7 @@ package primerproyecto;
 
 /**
  *
- * @author Pc
+ * @author Rubén Tavero Picón
  */
 public class PrimerProyecto {
 
@@ -15,7 +15,7 @@ public class PrimerProyecto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola mundo, esto es Java 9");
     }
     
 }
